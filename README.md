@@ -1,7 +1,7 @@
 # page-web-data
 mini-projet page web avec données en table
 
-On donne une démo (fichier joint à dézipper) :
+On donne une démo (dans le dossier demo) :
 - *table1.csv*
 - *table1_moyennes_pageWeb.py*
 - *moyenne.html*
