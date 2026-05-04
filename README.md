@@ -5,7 +5,7 @@ On donne une démo (fichier joint à dézipper) :
 - *table1.csv*
 - *table1_moyennes_pageWeb.py*
 - *moyenne.html*
-- 
+
 Le fichier *moyenne.html* est produit par le programme Python.
 
 Dans le programme Python, on lit le fichier *table1.csv*. Les données sont mises dans une liste de dictionnaires Python.
